@@ -2,3 +2,7 @@ Android
 Android64
 Win32
 __history
+*.local
+*.identcache
+*.delphilsp.json
+* 
