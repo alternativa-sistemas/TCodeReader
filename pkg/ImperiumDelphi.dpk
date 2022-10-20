@@ -34,7 +34,8 @@ requires
   fmx;
 
 contains
-  FMX.CodeReader in '..\src\FMX.CodeReader.pas',
-  FMX.Register in '..\src\FMX.Register.pas';
+  CodeReader.FMX.CodeReader in '..\src\CodeReader.FMX.CodeReader.pas',
+  FMX.Register in '..\src\FMX.Register.pas',
+  CodeReader.FMX.Android.Permissions in '..\src\CodeReader.FMX.Android.Permissions.pas';
 
 end.

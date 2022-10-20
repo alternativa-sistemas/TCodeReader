@@ -6,7 +6,8 @@ Uses
   System.classes,
   System.Types,
   DesignIntF,
-  FMX.CodeReader;
+  CodeReader.FMX.CodeReader,
+  CodeReader.FMX.Android.Permissions;
 
 Procedure Register;
 
@@ -14,7 +15,7 @@ implementation
 
 Procedure Register;
 Begin
-RegisterComponents('Imperium Delphi', [TCodeReader]);
+RegisterComponents('Imperium Delphi', [TCodeReader, TAndroidPermissions]);
 End;
 
 end.

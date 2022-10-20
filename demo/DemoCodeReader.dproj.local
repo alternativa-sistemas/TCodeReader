@@ -10,7 +10,7 @@
   </Transactions>
 	<ActiveMobileDevice>
 		<PHackIntosh iOSSimulator="iPhone5"/>
-		<NoProfile Android="R9XMC05FLBE" Android64="R9XMC05FLBE"/>
+		<NoProfile Android="RQ8N306ATJF" Android64="RQ8N306ATJF" iOSSimulator="iPhone5"/>
 		<PMacBookFiorilli iOSSimulator="iPhone5"/>
 	</ActiveMobileDevice>
 </BorlandProject>
